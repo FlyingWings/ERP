@@ -1,0 +1,6 @@
+files_folder/
+*.sql
+temp/
+application/config/custom_config.php
+
+
